@@ -19,10 +19,8 @@ This project aims to identify fraudulent digital money transfer transactions usi
 
 ## 📁 Project Structure
 
-```text
 ├── data/
 ├── notebook/
 ├── preprocessing/
 ├── modelling/
 └── inference/
-```
